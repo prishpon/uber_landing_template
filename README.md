@@ -1,3 +1,3 @@
-# uber_html_template
+# uber_landing_template
 
-responsive layout using bootstrap4 grid ,flexbox
+responsive landing website layout using bootstrap4 grid ,flexbox and gulp.
